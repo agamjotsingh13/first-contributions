@@ -48,8 +48,8 @@ $ git config --list
 If all config field have been set up to your need the output should look something like
 
 ```shell
-user.name=Your Name
-user.email=youremail@domain.com
+user.name=
+user.email=
 ```
 
 # Persist Git Credentials
